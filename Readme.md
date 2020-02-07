@@ -1,7 +1,7 @@
-# Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
+﻿# Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Shishkin Grigory](https://up.htmlacademy.ru/javascript/19/user/1339625).
-* Наставник: `Неизвестно`.
+* Наставник: [Лариса Клец](https://up.htmlacademy.ru/javascript/19/user/336227).
 
 ---
 
